@@ -1,0 +1,13 @@
+@import "tailwindcss";
+*{
+    color: hsl(235, 18%, 26%);
+}
+body{
+    background-color: rgba(54, 56, 77);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;    
+}
